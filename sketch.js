@@ -81,7 +81,7 @@ function setup() {
 }
 
 function draw() {
-  background("black");
+  background("white");
   text("Score: "+score,500,50)
   console.log(trex.y)
   //console.log(getFrameRate())
